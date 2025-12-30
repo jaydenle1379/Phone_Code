@@ -1,2 +1,9 @@
 import pygame
-import tandom
+import random
+import math
+
+pygame.init()
+
+WIDTH = 400
+HEIGHT = 800
+
